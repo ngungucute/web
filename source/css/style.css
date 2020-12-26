@@ -1,0 +1,290 @@
+/*
+Theme Name: 	Etrostore Child Theme
+Theme Uri:  	https://www.smartaddons.com/themes/sw_etrostore
+Description:  	A child theme of SW Etrostore
+Author:     	Magentech
+Author Uri: 	http://www.magentech.com/
+Template:   	etrostore
+Version:    	1.1.0
+License:    	GNU General Public License v2 or later
+*/
+
+.single-product .dtwpb-woocommerce-page .single_add_to_cart_button {
+    font-family: RobotoRegular;
+    font-size: 12px;
+    text-transform: uppercase;
+    color: #fff;
+    width: 30%;
+    padding: 0 10px;
+    margin: 0 2px 0 0;
+    background: #f4524d;
+    background-color: #ff0000 !important;
+    -webkit-border-radius: 0;
+    -moz-border-radius: 0;
+    -o-border-radius: 0;
+    -ms-border-radius: 0;
+    border-radius: 0;
+    height: 43px;
+    line-height: 43px;
+}
+
+.single-product .dtwpb-woocommerce-page .single_add_to_cart_button:hover {
+    background-color: #ffaa00 !important;
+}
+
+.single-product .dtwpb-woocommerce-page .single_tra_gop_button {
+    font-family: RobotoRegular;
+    font-size: 12px;
+    text-transform: uppercase;
+    color: #fff;
+    width: 30%;
+    padding: 0 10px;
+    margin: 0 2px 0 0;
+    background: #f4524d;
+    background-color: #ffaa00 !important;
+    -webkit-border-radius: 0;
+    -moz-border-radius: 0;
+    -o-border-radius: 0;
+    -ms-border-radius: 0;
+    border-radius: 0;
+    height: 43px;
+    line-height: 42px;
+}
+
+.single-product .dtwpb-woocommerce-page .single_tra_gop_button:hover {
+    background-color: #5aa1e3 !important;
+}
+
+.single-product .dtwpb-woocommerce-page .item-bottom {
+    position: relative !important;
+    left: auto !important;
+    margin-left: 3px !important;
+    transform: none !important;
+    bottom: 0 !important;
+}
+
+.woocommerce .woocommerce-result-count {
+    width: 50%;
+    float: left;
+    height: 60px;
+}
+
+.woocommerce .woocommerce-ordering {
+    width: 50%;
+    height: 60px;
+}
+
+.woocommerce .woocommerce-ordering select {
+    float: right;
+}
+
+.woocommerce .item-bottom .button,
+.item-bottom .button {
+    background: rgba(51, 48, 42, 0.5);
+    font-size: 0;
+    height: 43px;
+    width: 33px;
+    line-height: 43px;
+    display: block;
+    float: left;
+    border-radius: 0 !important;
+    margin: 0 2px 0 0;
+    transition: transform 0.30s;
+}
+
+.woocommerce .quantity input.input-text,
+.quantity input.input-text {
+    -webkit-appearance: textfield;
+    -moz-appearance: textfield;
+    -ms-appearance: textfield;
+    font-family: RobotoRegular;
+    font-size: 16px;
+    color: #323232;
+    padding: 0;
+    background: none;
+    border: none;
+    height: 42px;
+}
+
+.woocommerce div.product form.cart div.quantity {
+    margin: 0 5px 0 0;
+}
+
+.single-product .product_detail .content_product_detail .cart .single_add_to_cart_button {
+    font-family: RobotoRegular;
+    font-size: 12px;
+    text-transform: uppercase;
+    color: #fff;
+    width: 30%;
+    padding: 0 10px;
+    margin: 0 2px 0 0;
+    background: #ff0000;
+    -webkit-border-radius: 0;
+    -moz-border-radius: 0;
+    -o-border-radius: 0;
+    -ms-border-radius: 0;
+    border-radius: 0;
+    height: 43px;
+    line-height: 43px;
+}
+
+.woocommerce .item-bottom .fancybox,
+.item-bottom .fancybox {
+    background: rgba(51, 48, 42, 0.5);
+    font-size: 0;
+    height: 43px;
+    width: 33px;
+    line-height: 43px;
+    display: block;
+    border-radius: 0;
+    transition: transform 0.60s;
+    float: left;
+}
+
+.tm-epo-field-label.tm-left {
+    padding-right: 1em;
+    width: 30%;
+    float: left;
+}
+
+.tm-epo-field.tmcp-select {
+    max-width: 100%;
+    font-family: sans-serif;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    padding: 5px;
+}
+
+.tm-quantity input.tm-qty {
+    margin: 0;
+    max-width: 100%;
+    min-width: 50px;
+    text-align: center;
+    width: 5em;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.woocommerce form .form-row {
+    padding: 3px;
+    margin: 0 0 6px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.woocommerce .item-bottom .yith-wcwl-add-to-wishlist,
+.item-bottom .yith-wcwl-add-to-wishlist {
+    display: none;
+}
+
+.listings-title .wrap-title .bread .breadcrumbs {
+    display: none;
+}
+
+.listings-title .wrap-title h1 {
+    width: 100%;
+}
+
+.tm-epo-field-label.tm-left+.tm-extra-product-options-container,
+.tm-epo-field-label.tm-right+.tm-extra-product-options-container {
+    width: 100% !important;
+}
+
+.woocommerce #respond input#submit.alt,
+.woocommerce a.button.alt,
+.woocommerce button.button.alt,
+.woocommerce input.button.alt {
+    font-family: RobotoRegular;
+    font-size: 14px;
+    text-transform: uppercase;
+    color: #fff;
+    width: 48%;
+    padding: 0 10px;
+    margin: 0 2px 0 0;
+    background: #ff0000;
+    -webkit-border-radius: 0;
+    -moz-border-radius: 0;
+    -o-border-radius: 0;
+    -ms-border-radius: 0;
+    border-radius: 0;
+    height: 43px;
+    line-height: 43px;
+}
+
+.woocommerce #respond input#submit.alt,
+.woocommerce a.button.alt,
+.woocommerce button.button.alt:hover {
+    background: #ffaa00;
+}
+
+.woocommerce div.product p.price {
+    color: #ff0000;
+    font-size: 1.85em;
+    font-family: Helvetica, Arial, sans-serif;
+    font-weight: 700;
+}
+
+.woocommerce>.cart-collaterals .cart_totals .wc-proceed-to-checkout .checkout-button {
+    font-size: 18px;
+    text-transform: uppercase;
+    padding: unset;
+}
+
+.woocommerce>.cart-collaterals .cart_totals {
+    width: 100%;
+}
+
+#add_payment_method .wc-proceed-to-checkout,
+.woocommerce-cart .wc-proceed-to-checkout {
+    padding: 1em 0;
+    text-align: center;
+}
+
+.cart_backtohome_button {
+    background: #1435c3;
+    font-size: 18px;
+    font-family: RobotoRegular;
+    color: #fff;
+    width: 48%;
+    line-height: 43px;
+}
+
+.cart_backtohome_button:hover {
+    background: #d31717;
+}
+
+body p {
+    font-family: unset;
+}
+
+.nav {
+    font-size: 16px;
+    margin-left: 0px;
+}
+
+.tab-content .tab-pane.active {
+    padding-top: 2%;
+}
+
+.col-md-6 {
+    width: 100%;
+}
+
+@media only screen and (max-width: 700px) {
+    .cart_backtohome_button {
+        width: 100%;
+    }
+    .checkout-button.button.alt.wc-forward {
+        width: 100%;
+    }
+    .coupon {
+        width: 100%;
+    }
+    button[name="update_cart"] {
+        width: 98% !important;
+        margin-top: 48px !important;
+    }
+	.cart_backtohome_button{
+		display:none !important;
+	}
+}
